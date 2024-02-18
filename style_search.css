@@ -149,7 +149,7 @@ header {
     align-items: flex-end;
     grid-column: 2 / 4; /* début et fin (exclue) */
     grid-row: 1;
-    background-color: slategray;
+    background-color: rgb(0, 128, 255);
 
 }
 
@@ -199,7 +199,3 @@ header {
     display: none; 
     max-width: 300px; 
 }
-
-  
-
-  
