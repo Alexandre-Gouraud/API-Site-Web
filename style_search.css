@@ -20,7 +20,7 @@ body {
     font-family: 'Montserrat', sans-serif;/* Utilisation de la police Montserrat ou une police sans-serif par défaut */
     align-items: center;
     min-height: 100vh;
-    background-image: linear-gradient(180deg, #3f3f3f 0%, #b43daa  50%, #ff7ceb 100%);
+    background-image: linear-gradient(180deg, #e0dede 0%, #b43daa  50%, #ff7ceb 100%);
     justify-content: center;
     
     
@@ -74,7 +74,7 @@ header {
     background: #000; /* Couleur de fond noire */
     background-size: cover; /* La taille de l'image de fond est ajustée pour couvrir tout l'élément */
     color: #fff; /* Couleur du texte blanc */
-    padding: 40px; /* Espacement intérieur de 40 pixels */
+    padding: 25px; /* Espacement intérieur de 25 pixels */
 }
 
 
@@ -124,7 +124,7 @@ header {
     font-weight: bold;
     grid-column: 3; /* position 3 */
     grid-row: 1;
-    background-color: slategray;
+    background-color: rgb(137, 167, 197);
 }
 
 /* Style pour l'image de Pokémon */
@@ -149,7 +149,7 @@ header {
     align-items: flex-end;
     grid-column: 2 / 4; /* début et fin (exclue) */
     grid-row: 1;
-    background-color: rgb(175, 0, 172);
+    background-color: rgb(190, 30, 187);
 
 }
 
